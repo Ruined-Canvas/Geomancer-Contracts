@@ -1,0 +1,25 @@
+{
+  "name": "geomancer-contracts",
+  "version": "1.0.0",
+  "description": "Ethereum contracts for Geomancer items",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruined-Canvas/Geomancer-Contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruined-Canvas/Geomancer-Contracts/issues"
+  },
+  "homepage": "https://github.com/Ruined-Canvas/Geomancer-Contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0"
+  }
+}
